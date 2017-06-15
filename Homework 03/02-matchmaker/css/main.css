@@ -1,0 +1,80 @@
+header {
+	background-color: #000;
+	color: #FFF;
+	padding: 20px 25px 5px 25px;
+	border-bottom: 3px solid #F8FF00;
+}
+
+h1{
+	font-family: 'Droid Serif', serif;
+	font-size: 32px;
+	color: #F8FF00;
+	margin:0px;
+}
+
+h2{
+	font-family: 'Droid Serif', serif;
+	font-size: 26px;
+}
+
+nav {
+	display:flex;
+	justify-content: flex-end;
+}
+
+.nav-item {
+	display: inline-block;
+	font-size: 20px;
+	margin: 0px 10px 0px 10px;
+}
+
+.item-bold {
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#tag-line {
+	background-color: #C6C6C6;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	height: 50px;
+	padding: 12px;
+	font-color:#FFF;
+	font-style: italic;
+	font-family: 'Droid Serif', serif;
+	font-weight: bold;
+	font-size: 28px;
+}
+
+.grey-strike {
+	color: #999;
+	text-decoration: line-through;
+}
+
+.yellow-underline {
+	text-decoration: underline;
+    -moz-text-decoration-color: #F8FF00; /* Code for Firefox */
+    text-decoration-color: #F8FF00;
+}
+
+#create-profile {
+	background-image: url("../images/coworking.jpg");
+	background-size: cover;
+	height:450px;
+}
+
+.profile-box {
+	height: 350px;
+	width: 300px;
+	float:right;
+	padding:15px;
+	margin-top:25px;
+	margin-right:20px;
+	border:2px solid #FFF;
+	background-color: rgba(255, 255, 255, 0.7);
+}
+
+
+

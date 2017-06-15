@@ -1,0 +1,579 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"backgorund",
+				"background-color"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"flex-",
+				"flex-grow"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"algin",
+				"align-items"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"bg-",
+				"background-image"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"alg",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/daveonate/Google Drive/FEWD/dave-onate-fewd-33-hw-repo/02-airbnb-layout-solution/index.html",
+			"settings":
+			{
+				"buffer_size": 4374,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 4945,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/daveonate/Google Drive/FEWD/dave-onate-fewd-33-hw-repo/02-airbnb-layout-solution",
+		"/Users/daveonate/Google Drive/FEWD/dave-onate-fewd-33-hw-repo/02-airbnb-layout-solution/css"
+	],
+	"file_history":
+	[
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 06 Layout Lab/02-airbnb-layout-solution/css/styles.css",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 06 Layout Lab/02-airbnb-layout-solution/index.html",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 06 Layout Lab/assignments/02-airbnb-layout/css/styles.css",
+		"/Users/daveonate/Google Drive/FEWD/02 Exercises/Homework 03/02-matchmaker/readme.md",
+		"/Users/daveonate/Google Drive/FEWD/02 Exercises/Homework 03/02-matchmaker/css/normalize.css",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 05 Flexbox/assignments 2/01-remember-how-to-float/css/style.css",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 05 Flexbox/assignments 2/01-remember-how-to-float/main.html",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 05 Flexbox/assignments 2/01-remember-how-to-float/style.css",
+		"/Users/daveonate/Google Drive/FEWD/04 Resources/General/00-css-layout-reference/css/main.css",
+		"/Users/daveonate/Google Drive/FEWD/04 Resources/General/00-css-layout-reference/index.html",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 03 - Box Model/sample/css/style.css",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 03 - Box Model/sample/sample.html",
+		"/Users/daveonate/Google Drive/__PROD/umiliki/app/email.php",
+		"/Users/daveonate/Google Drive/__PROD/umiliki/app/assets/js/modernizr-2.8.3.min.js",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 02/assignments/03-table-for-your-troubles/table.html",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 02/assignments/01-structure-it/exercise1.html",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 02/assignments/04-css-identification/csstest.html",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 02/assignments/04-css-identification/readme.md",
+		"/Users/daveonate/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 02/tyopgraphy.html",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/exercise_typo",
+		"/Users/daveonate/Google Drive/FEWD/01 Lessons/Lesson 02/assignments/01-structure-it/readme.md",
+		"/Users/daveonate/Google Drive/__PROD/umiliki/app/404.html",
+		"/Users/daveonate/Google Drive/__PROD/umiliki/app/apple-touch-icon.png",
+		"/Users/daveonate/Google Drive/__PROD/umiliki/app/browserconfig.xml",
+		"/Users/daveonate/Google Drive/__PROD/umiliki/app/index.php",
+		"/Users/daveonate/Google Drive/__PROD/umiliki/app/LICENSE.txt",
+		"/Users/daveonate/Google Drive/__PROD/umiliki/app/crossdomain.xml",
+		"/Users/daveonate/Google Drive/__PROD/umiliki/app/humans.txt",
+		"/Users/daveonate/Google Drive/__PROD/umiliki/app/assets/css/styles.css",
+		"/Users/daveonate/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Users/daveonate/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/daveonate/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/daveonate/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/daveonate/Google Drive/__PROD/annualreport/zapp/assets/js/pace.min.js",
+		"/Users/daveonate/Google Drive/__PROD/annualreport/app (1)/protecting-priority-wildlife-populations.php",
+		"/Users/daveonate/Google Drive/__PROD/annualreport/zapp/assets/php/00_content.php",
+		"/Users/daveonate/Google Drive/__PROD/annualreport/zapp/the-many-roles-of-women-in-conservation.php",
+		"/Users/daveonate/Google Drive/__PROD/annualreport/zapp/index.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jpg",
+			"png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/daveonate/Google Drive/FEWD/dave-onate-fewd-33-hw-repo/02-airbnb-layout-solution/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "styles.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "airbnb-solve.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
