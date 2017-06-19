@@ -231,6 +231,11 @@ body {
   font-size:18px;
 }
 
+.categories-item:hover {
+  text-decoration: underline;
+  text-decoration-color: #0D47A1;
+}
+
 .categories-item:nth-child(1) {
     color: #0D47A1;
 }
@@ -278,6 +283,10 @@ body {
   text-align: center;
   padding:10px 25px 10px 25px;
   font-size: 14px;
+}
+
+.email-button:hover {
+  background-color: #FFB300;
 }
 
 
@@ -344,7 +353,7 @@ body {
 }
 
 .side-bar {
-  width: 85%;
+  width: 100%;
   display: inline-block;
   margin: 0 auto;
 }
