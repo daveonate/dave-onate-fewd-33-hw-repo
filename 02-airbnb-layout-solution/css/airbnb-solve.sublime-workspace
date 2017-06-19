@@ -117,6 +117,7 @@
 			"settings":
 			{
 				"buffer_size": 4945,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -381,7 +382,7 @@
 				{
 					"buffer": 1,
 					"file": "styles.css",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 4945,
@@ -391,8 +392,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								4903,
+								4903
 							]
 						],
 						"settings":
@@ -402,12 +403,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										4903,
+										4904
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										4887,
+										4888
+									]
 								},
 								"unmatched":
 								{
@@ -477,7 +493,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3251.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
