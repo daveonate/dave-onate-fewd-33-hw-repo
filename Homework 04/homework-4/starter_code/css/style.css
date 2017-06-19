@@ -141,6 +141,26 @@ body {
   border-bottom: 1px solid #f9e42e;
   }
 
+.nav-item:nth-child(1) {
+    color: #FFB300;
+}
+
+.nav-item:nth-child(2) {
+    color: #FFC107;
+}
+
+.nav-item:nth-child(3) {
+    color: #FFCA28;
+}
+
+.nav-item:nth-child(4) {
+    color: #FFD54F;
+}
+
+.nav-item:nth-child(5) {
+    color: #FFE082;
+}
+
 .article-title {
   font-family: 'Open Sans';
   font-weight: 600;
@@ -209,6 +229,26 @@ body {
 .categories-item {
   font-weight: 300;
   font-size:18px;
+}
+
+.categories-item:nth-child(1) {
+    color: #0D47A1;
+}
+
+.categories-item:nth-child(2) {
+    color: #1565C0;
+}
+
+.categories-item:nth-child(3) {
+    color: #1976D2;
+}
+
+.categories-item:nth-child(4) {
+    color: #1E88E5;
+}
+
+.categories-item:nth-child(5) {
+    color: #2196F3;
 }
 
 .about-text {
